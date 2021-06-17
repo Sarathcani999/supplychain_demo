@@ -1,4 +1,4 @@
-# Personal Diary - MERN
+# Supplychain - DEMO
 
 ## How to Setup ?
 * **`npm install`**
