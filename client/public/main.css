@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+.App {
+    height: 100vh;
+}
